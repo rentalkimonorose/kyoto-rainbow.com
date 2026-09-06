@@ -1,0 +1,14 @@
+RewriteEngine on
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ https://kyoto-rainbow.com/$1 [R=301,L]
+
+AuthUserFile /virtual/seeds/public_html/kyoto-rainbow.com/.htpasswd
+AuthGroupFile /dev/null
+AuthName "Secret Area"
+AuthType Basic
+
+require valid-user
+
+<Files ~ "^.(htpasswd|htaccess)$">
+    deny from all
+</Files>

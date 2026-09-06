@@ -1,0 +1,55 @@
+Xbox One X	エックスボックス	Microsoft	マイクロソフト		
+Newニンテンドー2DS LL	ニュー	任天堂			
+Nintendo Switch	任天堂	ニンテンドー	スイッチ		
+プレイステーション4 Pro	Playstation	SONY	ソニー		
+Newニンテンドー3DS	任天堂	Nintendo			
+Newニンテンドー3DS LL	任天堂	Nintendo			
+Xbox One	エックスボックス	Microsoft	マイクロソフト		
+プレイステーション4	Playstation	SONY	ソニー		
+ニンテンドー2DS	任天堂	Nintendo			
+WiiU	任天堂	ウィー	ユー		
+ニンテンドー3DS LL	任天堂	Nintendo			
+PlayStation Vita	ヴィータ	ビータ	SONY	ソニー	プレイステーション
+ニンテンドー3DS	任天堂	Nintendo			
+Wii	任天堂	ウィー			
+プレイステーション3	Playstation	SONY	ソニー		
+Xbox 360	エックスボックス	Microsoft	マイクロソフト	サンロクマル	
+PlayStation Portable	プレイステーション	ポータブル	PSP	SONY	ソニー
+ニンテンドーDS	ニンテンドー	ディーエス	任天堂		
+Xbox	エックスボックス	Microsoft	マイクロソフト		
+ニンテンドーゲームキューブ	任天堂	Nintendo	Game Cube		
+ゲームボーイアドバンス	任天堂	Nintendo	Gameboy Advance		
+ワンダースワンカラー	Wonder Swan	color			
+プレイステーション2	Playstation	SONY	ソニー		
+ネオジオポケットカラー	Neogeo	Pocket	SNK		
+ワンダースワン	Wonder Swan				
+ドリームキャスト	Dream Cast	ドリキャス	SEGA	セガ	
+ネオジオポケット	Neogeo	Pocket	SNK		
+ゲームボーイカラー	任天堂	Nintendo	Game boy color		
+ニンテンドウ64	ニンテンドー	任天堂	Nintendo	ロクヨン	ロクジューヨン
+ピピンアットマーク	Pippin atmark	Pippin @	アップル	Apple	バンダイ
+PC-FX	NEC	ピーシー	エフエックス		
+プレイステーション	プレイステーション	SONY	ソニー		
+セガサターン	SEGA	SATURN	セガ
+PCエンジンDuo-RX	NEC	デュオ	ピーシー
+スリーディーオー	3do		
+レーザーアクティブ	Laser Active	パイオニア	
+メガドライブ2	Mega Drive	SEGA	セガ
+PCエンジンDuo-R	ピーシー	NEC	
+ワンダーメガ	Wonder Mega	SEGA	セガ
+PCエンジンLT	ピーシー	NEC	エルティー
+PCエンジンDuo	ピーシー	NEC	デュオ
+PCエンジンコアグラフィックスII	ピーシー	NEC	ツー
+PCエンジンGT	ピーシー	NEC	ジーティー
+スーパーファミコン	スーファミ	任天堂	Nintendo
+ゲームギア	Gamegear	SEGA	セガ
+ネオジオ	Neogeo	SNK	
+PCエンジンコアグラフィックス	ピーシー	NEC	
+PCエンジンスーパーグラフィックス	ピーシー	NEC	
+PCエンジンシャトル	ピーシー	NEC		
+ゲームボーイ	Game Boy	任天堂	Nintendo	
+メガドライブ	SEGA	セガ	Mega Drive	
+PCエンジン	ピーシー	NEC		
+セガ・マスターシステム	SEGA	セガ	Master System	
+セガ・マークIII	SEGA	セガ	Mark 3	
+ファミリーコンピュータ	任天堂	Nintendo	ファミコン	Family Computer

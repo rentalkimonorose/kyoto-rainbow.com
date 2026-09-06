@@ -1,0 +1,8 @@
+{
+  "host": "s58.coreserver.jp",
+  "username": "",
+  "password": "",
+  "port": 21,
+  "remote_path": "/public_html/kyoto-rainbow.com",
+  "use_tls": false
+}

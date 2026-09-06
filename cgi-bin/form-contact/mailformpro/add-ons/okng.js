@@ -1,0 +1,12 @@
+mfp.extend.event('noproblem',
+	function(obj){
+		mfp.addClassName(obj,'mfp_ok');
+		mfp.removeClassName(obj,'mfp_ng');
+	}
+);
+mfp.extend.event('problem',
+	function(obj){
+		mfp.addClassName(obj,'mfp_ng');
+		mfp.removeClassName(obj,'mfp_ok');
+	}
+);
